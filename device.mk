@@ -217,6 +217,7 @@ PRODUCT_PACKAGES += \
     libgenlock \
     libtinyxml \
     libdisplayconfig.vendor \
+    libdisplayconfig.qti.vendor \
     libqdMetaData \
     libqdMetaData.vendor \
     vendor.display.config@1.9 \
